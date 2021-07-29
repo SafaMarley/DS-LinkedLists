@@ -1,1 +1,1 @@
-# DS-LinkedLists
+# SchoolProjects
