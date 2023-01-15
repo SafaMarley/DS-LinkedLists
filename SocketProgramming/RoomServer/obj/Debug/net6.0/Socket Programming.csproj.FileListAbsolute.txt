@@ -1,0 +1,30 @@
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.csproj.AssemblyReference.cache
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.AssemblyInfoInputs.cache
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.AssemblyInfo.cs
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.csproj.CoreCompileInputs.cache
+D:\SocketProgramming\SocketProgramming\Socket Programming\bin\Debug\net6.0\Socket Programming.exe
+D:\SocketProgramming\SocketProgramming\Socket Programming\bin\Debug\net6.0\Socket Programming.deps.json
+D:\SocketProgramming\SocketProgramming\Socket Programming\bin\Debug\net6.0\Socket Programming.runtimeconfig.json
+D:\SocketProgramming\SocketProgramming\Socket Programming\bin\Debug\net6.0\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\Socket Programming\bin\Debug\net6.0\Socket Programming.pdb
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\refint\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.pdb
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\Socket Programming.genruntimeconfig.cache
+D:\SocketProgramming\SocketProgramming\Socket Programming\obj\Debug\net6.0\ref\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\RoomServer\bin\Debug\net6.0\Socket Programming.exe
+D:\SocketProgramming\SocketProgramming\RoomServer\bin\Debug\net6.0\Socket Programming.deps.json
+D:\SocketProgramming\SocketProgramming\RoomServer\bin\Debug\net6.0\Socket Programming.runtimeconfig.json
+D:\SocketProgramming\SocketProgramming\RoomServer\bin\Debug\net6.0\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\RoomServer\bin\Debug\net6.0\Socket Programming.pdb
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.csproj.AssemblyReference.cache
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.AssemblyInfoInputs.cache
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.AssemblyInfo.cs
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.csproj.CoreCompileInputs.cache
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\refint\Socket Programming.dll
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.pdb
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\Socket Programming.genruntimeconfig.cache
+D:\SocketProgramming\SocketProgramming\RoomServer\obj\Debug\net6.0\ref\Socket Programming.dll

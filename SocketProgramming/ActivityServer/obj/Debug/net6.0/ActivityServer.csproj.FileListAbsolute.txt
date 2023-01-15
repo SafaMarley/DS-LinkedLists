@@ -1,0 +1,15 @@
+D:\SocketProgramming\SocketProgramming\ActivityServer\bin\Debug\net6.0\ActivityServer.exe
+D:\SocketProgramming\SocketProgramming\ActivityServer\bin\Debug\net6.0\ActivityServer.deps.json
+D:\SocketProgramming\SocketProgramming\ActivityServer\bin\Debug\net6.0\ActivityServer.runtimeconfig.json
+D:\SocketProgramming\SocketProgramming\ActivityServer\bin\Debug\net6.0\ActivityServer.dll
+D:\SocketProgramming\SocketProgramming\ActivityServer\bin\Debug\net6.0\ActivityServer.pdb
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.csproj.AssemblyReference.cache
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.AssemblyInfoInputs.cache
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.AssemblyInfo.cs
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.csproj.CoreCompileInputs.cache
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.dll
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\refint\ActivityServer.dll
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.pdb
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ActivityServer.genruntimeconfig.cache
+D:\SocketProgramming\SocketProgramming\ActivityServer\obj\Debug\net6.0\ref\ActivityServer.dll
